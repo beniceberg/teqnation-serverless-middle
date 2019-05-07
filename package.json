@@ -1,0 +1,11 @@
+{
+    "name": "app",
+    "version": "0.0.1",
+    "main":"index.js",
+    "author":"Dave van Hoorn and Ben Eisenberg",
+    "description": "Express middleware for TEQnation serverles app",
+    "dependencies": {
+      "express": "latest",
+      "cors": "2.8.5"
+    }
+  }
